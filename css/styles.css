@@ -1,0 +1,135 @@
+body {
+
+    background-color: #767b81b4;
+    font-family: Montserrat, Arial;
+}
+
+li {
+    line-height: 24px;
+}
+
+.primer-elemento-lista {
+    background-color: yellow;
+}
+
+.descripcion-profesion {
+
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.descripcion-profesion {
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.descripcion {
+    /* width: 400px;
+    height: 221px; */
+    background-color: aquamarine;
+    margin: 40px;
+    /* margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 40px;
+    margin-right: 40px; */
+}
+
+.Proyectos {
+
+    background-color: antiquewhite;
+
+}
+
+.Experiencia-Laboral {
+    background-color: cyan;
+}
+
+.contenedor-principal {
+
+    width: 1200px;
+    height: 1319px;
+
+    margin: 40px auto;
+
+    background-color: white;
+
+    display: flex;
+    flex-direction: row-reverse;
+
+}
+
+/* .información-general{
+    display: flex;
+    flex-direction: column;
+} */
+
+.Informacion-lateral {
+    background-color: #1E2939;
+    padding: 40px 0px;
+
+}
+
+.titulo-lateral {
+    color: white;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    margin-top: 50px;
+
+}
+
+.Contactos,
+.habilidades-tecnicas,
+.Habilidades-blandas {
+
+    margin-left: 40px;
+    color: white;
+
+}
+
+.Contactos {
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+
+    color: #FFFFFF;
+
+    /* opacity: 0.5; */
+}
+
+
+
+
+a {
+    color: white;
+}
+
+a:visited {
+    color: white;
+}
+
+a:hover {
+    color: brown;
+}
+
+a:active {
+    color: brown;
+}
+
+.lista-lateral>li {
+
+    color: #FB6D3A;
+
+}
+
+.elemento-lista-lateral {
+
+    color: white;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+
+}
